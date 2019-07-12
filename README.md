@@ -1,4 +1,4 @@
-# portfolio
+# motivationalapp
 
 Motivational App
 
